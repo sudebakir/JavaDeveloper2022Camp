@@ -3,12 +3,12 @@ public class Main {
 
 	public static void main(String[] args) {
 		int ogrenciSayisi=12;
-		String mesaj="Öğrenci Sayısı : ";
+		String mesaj="Ã–Ã°renci SayÃ½sÃ½ : ";
 		System.out.println(mesaj+ogrenciSayisi);
 		System.out.println(mesaj+ogrenciSayisi);
-		System.out.println("Öğrenci sayım : "+ ogrenciSayisi);
-		System.out.println("Öğrenci sayım : "+ ogrenciSayisi);
-		System.out.println("Öğrenci sayım : "+ ogrenciSayisi);
+		System.out.println("Ã–Ã°renci sayÃ½m : "+ ogrenciSayisi);
+		System.out.println("Ã–Ã°renci sayÃ½m : "+ ogrenciSayisi);
+		System.out.println("Ã–Ã°renci sayÃ½m : "+ ogrenciSayisi);
 
 		
 		
